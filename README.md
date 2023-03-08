@@ -312,4 +312,10 @@ connect to this database and an async search will begin.
 Want to try higher performance AutoML without writing code? Try:
 https://cloud.google.com/automl-tables
 
+<<<<<<< HEAD
 readme file in branch branch2
+=======
+readme file in branch branch1
+>>>>>>> branch1
+
+merge two branch
