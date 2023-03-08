@@ -312,4 +312,3 @@ connect to this database and an async search will begin.
 Want to try higher performance AutoML without writing code? Try:
 https://cloud.google.com/automl-tables
 
-readme file
